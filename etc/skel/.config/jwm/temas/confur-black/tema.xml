@@ -1,4 +1,4 @@
 <ButtonClose>close.png</ButtonClose>
-<ButtonMax>  </ButtonMax>
-<ButtonMaxActive> </ButtonMaxActive>
-<ButtonMin> </ButtonMin>
+<ButtonMax>max.png</ButtonMax>
+<ButtonMaxActive>max_toggled.png</ButtonMaxActive>
+<ButtonMin>iconify.png</ButtonMin>
