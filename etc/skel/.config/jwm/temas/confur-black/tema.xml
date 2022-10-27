@@ -1,4 +1,7 @@
+<?xml version="1.0"?>
+<JWM>
 <ButtonClose>close.png</ButtonClose>
 <ButtonMax>max.png</ButtonMax>
 <ButtonMaxActive>max_toggled.png</ButtonMaxActive>
 <ButtonMin>iconify.png</ButtonMin>
+</JWM>
