@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<JWM>
+<ButtonClose type="image">/usr/local/share/ikon/16/close.svg</ButtonClose>
+<ButtonMax type="image">/usr/local/share/ikon/16/maximize.svg</ButtonMax>
+<ButtonMin type="image">/usr/local/share/ikon/16/minimize.svg</ButtonMin>
+</JWM>
