@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<JWM>
+<!-- gudrak -->
+<Include>exec: killall conky</Include>
+   <Include>$HOME/.config/bes/jwm/button.xml</Include>
+   <Include>$HOME/.config/bes/jwm/desktops.xml</Include>
+   <Include>$HOME/.config/bes/jwm/groups.xml</Include>
+   <Include>$HOME/.config/bes/jwm/icons.xml</Include>
+   <Include>$HOME/.config/bes/jwm/keys.xml</Include>
+   <Include>$HOME/.config/bes/jwm/menu.xml</Include>
+   <Include>$HOME/.config/bes/jwm/mouse.xml</Include>
+   <Include>$HOME/.config/bes/jwm/start.xml</Include>
+   <Include>$HOME/.config/bes/jwm/theme.xml</Include>
+   <Include>$HOME/.config/bes/jwm/tray.xml</Include>
+   <Include>$HOME/.config/bes/jwm/tray2.xml</Include>
+</JWM>
