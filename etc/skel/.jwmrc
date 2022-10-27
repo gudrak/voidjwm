@@ -2,7 +2,7 @@
 <JWM>
 <!-- gudrak -->
 <Include>exec: killall conky</Include>
-   <Include>$HOME/.config/bes/jwm/button.xml</Include>
+   <Include>$HOME/.config/jwm/botones.xml</Include>
    <Include>$HOME/.config/bes/jwm/desktops.xml</Include>
    <Include>$HOME/.config/bes/jwm/groups.xml</Include>
    <Include>$HOME/.config/bes/jwm/icons.xml</Include>
